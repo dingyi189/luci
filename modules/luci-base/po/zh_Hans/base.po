@@ -3954,7 +3954,7 @@ msgstr "启用 VLAN 功能"
 
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:2153
 msgid "Enable WPS pushbutton, requires WPA(2)-PSK/WPA3-SAE"
-msgstr "启用 WPS 一键加密按钮，需要 WPA(2)-PSK/WPA3-SAE"
+msgstr "启用 WPS 一键加密按钮"
 
 #: protocols/luci-proto-yggdrasil/htdocs/luci-static/resources/protocol/yggdrasil.js:322
 msgid "Enable Yggdrasil Jumper"
