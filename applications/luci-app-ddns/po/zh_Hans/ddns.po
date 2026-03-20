@@ -188,11 +188,11 @@ msgstr "域名"
 #: applications/luci-app-ddns/htdocs/luci-static/resources/view/status/include/70_ddns.js:7
 #: applications/luci-app-ddns/root/usr/share/luci/menu.d/luci-app-ddns.json:3
 msgid "Dynamic DNS"
-msgstr "动态 DNS"
+msgstr "动态域名"
 
 #: applications/luci-app-ddns/htdocs/luci-static/resources/view/ddns/overview.js:267
 msgid "Dynamic DNS Version"
-msgstr "动态 DNS 版本"
+msgstr "动态域名版本"
 
 #: applications/luci-app-ddns/htdocs/luci-static/resources/view/ddns/overview.js:545
 msgid "Edit"
