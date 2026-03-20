@@ -2014,7 +2014,7 @@ msgstr "CNAME 或 fqdn"
 
 #: modules/luci-mod-status/htdocs/luci-static/resources/view/status/processes.js:72
 msgid "CPU usage (%)"
-msgstr "CPU 使用率（%）"
+msgstr "CPU 使用率"
 
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dns.js:196
 msgid "Cache"
