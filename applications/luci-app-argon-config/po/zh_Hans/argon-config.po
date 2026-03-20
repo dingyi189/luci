@@ -39,11 +39,11 @@ msgstr "操作"
 
 #: applications/luci-app-argon-config/root/usr/share/luci/menu.d/luci-app-argon-config.json:3
 msgid "Argon Config"
-msgstr "Argon 主题设置"
+msgstr "主题设置"
 
 #: applications/luci-app-argon-config/htdocs/luci-static/resources/view/argon-config.js:45
 msgid "Argon theme configuration"
-msgstr "Argon 主题设置"
+msgstr "主题设置"
 
 #: applications/luci-app-argon-config/htdocs/luci-static/resources/view/argon-config.js:209
 msgid "Background file list"
@@ -107,8 +107,7 @@ msgid ""
 "Here you can set the blur and transparency of the login page of argon theme, "
 "and manage the background pictures and videos. Chrome is recommended."
 msgstr ""
-"在这里你可以设置argon 主题的登录页面的模糊和透明度，并管理背景图片与视频。推"
-"荐使用 Chrome。"
+"设置 argon 主题的登录页面的模糊和透明度，并管理背景图片与视频。"
 
 #: applications/luci-app-argon-config/htdocs/luci-static/resources/view/argon-config.js:119
 #: applications/luci-app-argon-config/htdocs/luci-static/resources/view/argon-config.js:143
@@ -188,7 +187,7 @@ msgid ""
 "You can upload files such as gif/jpg/mp4/png/webm/webp files, to change the "
 "login page background."
 msgstr ""
-"你可以上传 gif/jpg/mp4/png/webm/webp 等格式的文件，以创建自己喜欢的登录界面。"
+"上传 gif/jpg/mp4/png/webm/webp 等格式的文件，创建个性化登录界面。"
 
 #: applications/luci-app-argon-config/htdocs/luci-static/resources/view/argon-config.js:142
 msgid "[Dark mode] Frosted Glass Radius"
