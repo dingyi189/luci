@@ -196,7 +196,7 @@ if has_xray then
 	o = s_xray:option(Value, "buffer_size", translate("Buffer Size"), translate("Buffer size for every connection (kB)"))
 	o.datatype = "uinteger"
 
-	s_xray_noise = m:section(TypedSection, "xray_noise_packets", translate("Xray Noise Packets"),"<font color='red'>" .. translate("To send noise packets, select \"Noise\" in Xray Settings.") .. "</font>")
+	s_xray_noise = m:section(TypedSection, "xray_noise_packets", translate("Xray Noise Packets"))
 	s_xray_noise.template = "cbi/tblsection"
 	s_xray_noise.sortable = true
 	s_xray_noise.anonymous = true
