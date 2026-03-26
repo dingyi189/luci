@@ -500,16 +500,6 @@ o:value("gfw", translate("Remote DNS"))
 o:value("chn", translate("Direct DNS"))
 o:value("none", translate("Smart, Do not accept no-ip reply from Direct DNS"))
 o:value("none_noip", translate("Smart, Accept no-ip reply from Direct DNS"))
-local desc = "<ul>"
-		.. "<li>" .. translate("When not matching any domain name list:") .. "</li>"
-		.. "<li>" .. translate("Remote DNS: Can avoid more DNS leaks, but some domestic domain names maybe to proxy!") .. "</li>"
-		.. "<li>" .. translate("Direct DNS: Internet experience may be better, but DNS will be leaked!") .. "</li>"
-o.description = desc
-		.. "<li>" .. translate("Smart: Forward to both direct and remote DNS, if the direct DNS resolution result is a mainland China IP, then use the direct result, otherwise use the remote result.") .. "</li>"
-		.. "<li>" .. translate("In smart mode, no-ip reply from Direct DNS:") .. "</li>"
-		.. "<li>" .. translate("Do not accept: Wait and use Remote DNS Reply.") .. "</li>"
-		.. "<li>" .. translate("Accept: Trust the Reply, using this option can improve DNS resolution speeds for some mainland IPv4-only sites.") .. "</li>"
-		.. "</ul>"
 o:depends({dns_shunt = "chinadns-ng", tcp_proxy_mode = "proxy", chn_list = "direct"})
 
 o = s:taboption("DNS", ListValue, "use_default_dns", translate("Default DNS"))
