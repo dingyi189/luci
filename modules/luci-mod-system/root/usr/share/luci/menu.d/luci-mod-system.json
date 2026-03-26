@@ -122,19 +122,6 @@
 		}
 	},
 
-	"admin/system/leds": {
-		"title": "LED Configuration",
-		"order": 60,
-		"action": {
-			"type": "view",
-			"path": "system/leds"
-		},
-		"depends": {
-			"acl": [ "luci-mod-system-config" ],
-			"fs": { "/sys/class/leds": "directory" }
-		}
-	},
-
 	"admin/system/flash": {
 		"title": "Backup / Flash Firmware",
 		"order": 70,
