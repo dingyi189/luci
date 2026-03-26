@@ -1289,7 +1289,7 @@ msgstr ""
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/dropbear.js:35
 msgid "Allow <abbr title=\"Secure Shell\">SSH</abbr> password authentication"
-msgstr "允许 <abbr title=\"Secure Shell（安全外壳）\">SSH</abbr> 密码验证"
+msgstr "允许 ssh 密码验证"
 
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1267
 msgid "Allow AP mode to disconnect STAs based on low ACK condition"
