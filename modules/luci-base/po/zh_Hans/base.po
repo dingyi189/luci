@@ -1352,7 +1352,7 @@ msgstr "允许远端改变 IP 或端口"
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/dropbear.js:41
 msgid "Allow root logins with password"
-msgstr "允许 root 用户凭密码登录"
+msgstr "密码登录"
 
 #: modules/luci-base/root/usr/share/rpcd/acl.d/luci-base.json:3
 msgid "Allow system feature probing"
