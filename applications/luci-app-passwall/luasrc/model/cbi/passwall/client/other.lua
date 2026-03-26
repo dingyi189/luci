@@ -137,9 +137,6 @@ if (mods:find("REDIRECT") and mods:find("TPROXY")) or (mods:find("nft_redir") an
 	if mods:find("ip6table_mangle") or mods:find("nft_tproxy") then
 		---- IPv6 TProxy
 		o = s:option(Flag, "ipv6_tproxy", translate("IPv6 TProxy"),
-					"<font color='red'>" .. translate(
-						"Experimental feature. Make sure that your node supports IPv6.") ..
-						"</font>")
 		o.default = 0
 		o.rmempty = false
 	end
