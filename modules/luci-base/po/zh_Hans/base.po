@@ -3848,7 +3848,7 @@ msgstr ""
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/dropbear.js:17
 msgid "Enable <abbr title=\"Secure Shell\">SSH</abbr> service instance"
-msgstr "启用 <abbr title=\"Secure Shell（安全外壳）\">SSH</abbr> 服务实例"
+msgstr "启用 ssh 服务实例"
 
 #: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:1028
 msgid "Enable <abbr title=\"Spanning Tree Protocol\">STP</abbr>"
