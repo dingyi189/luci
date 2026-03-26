@@ -2035,3 +2035,6 @@ msgstr "当前使用的 %s 节点"
 
 msgid "Search nodes..."
 msgstr "搜索节点…"
+
+msgid "acceptProxyProtocol"
+msgstr "接受代理协议"
