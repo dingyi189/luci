@@ -1849,9 +1849,6 @@ msgstr "噪声"
 msgid "UDP noise, Under some circumstances it can bypass some UDP based protocol restrictions."
 msgstr "UDP 噪声，在某些情况下可以绕过一些针对 UDP 协议的限制。"
 
-msgid "To send noise packets, select \"Noise\" in Xray Settings."
-msgstr "在 Xray 设置中勾选 “噪声” 以发送噪声包。"
-
 msgid "Xray Noise Packets"
 msgstr "Xray 噪声数据包"
 
