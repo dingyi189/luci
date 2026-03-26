@@ -1344,7 +1344,7 @@ msgstr "允许在非活动端口上接收"
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/dropbear.js:46
 msgid "Allow remote hosts to connect to local SSH forwarded ports"
-msgstr "允许远程主机连接到本地 SSH 转发端口"
+msgstr "允许远程主机连接到本地 ssh 转发端口"
 
 #: protocols/luci-proto-openvpn/htdocs/luci-static/resources/protocol/openvpn.js:595
 msgid "Allow remote to change its IP or port"
