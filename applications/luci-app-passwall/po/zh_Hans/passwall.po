@@ -1036,15 +1036,6 @@ msgstr "根据 Geo 文件生成规则列表，包括 GFW、中国域名和中国
 msgid "Enable Geo Data Parsing"
 msgstr "开启 Geo 数据解析"
 
-msgid "Analyzes and preloads GeoIP/Geosite data to enhance the shunt performance of Sing-box/Xray."
-msgstr "分析和预加载 GeoIP/Geosite 数据，以增强 Sing-box/Xray 的分流效果。"
-
-msgid "Once enabled, the rule list can support GeoIP/Geosite rules."
-msgstr "启用后，规则列表可以支持 GeoIP/Geosite 规则。"
-
-msgid "Note: Increases resource usage; Geosite analysis is only supported in ChinaDNS-NG and SmartDNS modes."
-msgstr "注：会增加一些系统资源的开销，仅在 ChinaDNS-NG 和 SmartDNS 模式下支持分析 Geosite 。"
-
 msgid "Shunt Rule"
 msgstr "分流规则"
 
