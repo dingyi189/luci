@@ -23,7 +23,7 @@ msgid "Touch Check"
 msgstr "点我检测"
 
 msgid "TLS handshake test, latency for reference only"
-msgstr "TLS握手测试，延时仅供参考"
+msgstr "TLS 握手测试，延时仅供参考"
 
 msgid "Kernel Unsupported"
 msgstr "内核不支持"
@@ -125,13 +125,13 @@ msgid "Current node: %s"
 msgstr "当前节点：%s"
 
 msgid "DNS Shunt"
-msgstr "DNS分流"
+msgstr "DNS 分流"
 
 msgid "Domestic group name"
 msgstr "国内分组名"
 
 msgid "You only need to configure domestic DNS packets in SmartDNS, and fill in the domestic DNS group name here."
-msgstr "您只需要在SmartDNS配置好国内DNS分组，并在此处填入国内DNS分组名。"
+msgstr "您只需要在 SmartDNS 配置好国内 DNS 分组，并在此处填入国内 DNS 分组名。"
 
 msgid "%s cannot be empty."
 msgstr "%s 不能为空。"
@@ -260,10 +260,10 @@ msgid "If you are unable to access the internet after reboot, please try clearin
 msgstr "如果在重启后无法上网，请尝试清除终端设备的缓存（先关闭所有正在使用的浏览器应用程序，这一步尤其重要）："
 
 msgid "For Windows systems, open Command Prompt and run the command 'ipconfig /flushdns'."
-msgstr "对于Windows系统，请在命令提示符中运行命令 'ipconfig /flushdns'."
+msgstr "对于 Windows 系统，请在命令提示符中运行命令 'ipconfig /flushdns'."
 
 msgid "For Mac systems, open Terminal and run the command 'sudo killall -HUP mDNSResponder'."
-msgstr "对于Mac系统，在终端中运行命令 'sudo killall -HUP mDNSResponder'."
+msgstr "对于 Mac 系统，在终端中运行命令 'sudo killall -HUP mDNSResponder'."
 
 msgid "For mobile devices, you can clear it by reconnecting to the network, such as toggling Airplane Mode and reconnecting to WiFi."
 msgstr "对于移动设备，可通过重新接入网络的方式清除。比如开关一次飞行模式，重新连接 WiFi。"
@@ -581,10 +581,10 @@ msgid "Load balancing node list, <a target='_blank' href='https://xtls.github.io
 msgstr "负载均衡节点列表，<a target='_blank' href='https://xtls.github.io/config/routing.html#balancerobject'>文档原理</a>"
 
 msgid "From Share URL"
-msgstr "导入分享URL"
+msgstr "导入分享 URL"
 
 msgid "Build Share URL"
-msgstr "导出分享URL"
+msgstr "导出分享 URL"
 
 msgid "Generate QRCode"
 msgstr "生成二维码"
@@ -599,16 +599,16 @@ msgid "Not a supported scheme:"
 msgstr "不支持这种样式的："
 
 msgid "Invalid Share URL Format"
-msgstr "无效的分享URL信息"
+msgstr "无效的分享 URL 信息"
 
 msgid "Paste Share URL Here"
 msgstr "在此处粘贴分享信息"
 
 msgid "Share URL to clipboard unable."
-msgstr "无法分享URL到剪贴板。"
+msgstr "无法分享 URL 到剪贴板。"
 
 msgid "Share URL to clipboard successfully."
-msgstr "成功复制分享URL到剪贴板。"
+msgstr "成功复制分享 URL 到剪贴板。"
 
 msgid "Faltal on get option, please help in debug:"
 msgstr "代码错误，请协助捉虫："
@@ -812,10 +812,10 @@ msgid "Close"
 msgstr "关闭"
 
 msgid "Hijacking ICMP (PING)"
-msgstr "劫持ICMP (PING)"
+msgstr "劫持 ICMP (PING)"
 
 msgid "Hijacking ICMPv6 (IPv6 PING)"
-msgstr "劫持ICMPv6 (IPv6 PING)"
+msgstr "劫持 ICMPv6 (IPv6 PING)"
 
 msgid "Sniffing"
 msgstr "流量嗅探"
@@ -956,16 +956,16 @@ msgid "Enable custom URL"
 msgstr "启用自定义规则地址"
 
 msgid "GFW domains(gfwlist) Update URL"
-msgstr "防火墙域名列表(gfwlist)更新URL"
+msgstr "防火墙域名列表(gfwlist)更新 URL"
 
 msgid "China IPs(chnroute) Update URL"
-msgstr "中国IP段(chnroute)更新URL"
+msgstr "中国IP段(chnroute)更新 URL"
 
 msgid "China IPv6s(chnroute6) Update URL"
-msgstr "中国IPv6段(chnroute6)更新URL"
+msgstr "中国IPv6段(chnroute6)更新 URL"
 
 msgid "China List(Chnlist) Update URL"
-msgstr "中国域名列表(Chnlist)更新URL"
+msgstr "中国域名列表(Chnlist)更新 URL"
 
 msgid "Rule status"
 msgstr "规则版本"
@@ -1016,10 +1016,10 @@ msgid "Hour"
 msgstr "小时"
 
 msgid "GeoIP Update URL"
-msgstr "GeoIP 更新URL"
+msgstr "GeoIP 更新 URL"
 
 msgid "Geosite Update URL"
-msgstr "Geosite 更新URL"
+msgstr "Geosite 更新 URL"
 
 msgid "Location of Geo rule files"
 msgstr "Geo 规则文件目录"
@@ -1103,7 +1103,7 @@ msgid "Node Subscribe"
 msgstr "节点订阅"
 
 msgid "Subscribe Remark"
-msgstr "订阅备注（机场）"
+msgstr "订阅备注"
 
 msgid "Subscribe Info"
 msgstr "订阅信息"
@@ -1175,7 +1175,7 @@ msgid "Use global config"
 msgstr "使用全局配置"
 
 msgid "User-Agent"
-msgstr "用户代理(User-Agent)"
+msgstr "用户代理"
 
 msgid "Add"
 msgstr "添加"
@@ -1361,7 +1361,7 @@ msgid "Plugin Arguments"
 msgstr "插件参数"
 
 msgid "User Level"
-msgstr "用户等级(level)"
+msgstr "用户等级"
 
 msgid "Transport"
 msgstr "传输方式"
@@ -1394,7 +1394,7 @@ msgid "Whether or not transport layer encryption is enabled, \"none\" for unencr
 msgstr "是否启入传输层加密，支持的选项有 \"none\" 表示不加密，\"tls\" 表示使用 TLS，\"xtls\" 表示使用 XTLS。"
 
 msgid "Original Trojan only supported 'tls', please choose 'tls'."
-msgstr "原版Trojan只支持'tls'，请选择'tls'。"
+msgstr "原版 Trojan 只支持 'tls'，请选择 'tls'。"
 
 msgid "Transfer mode"
 msgstr "传输模式"
@@ -1496,7 +1496,7 @@ msgid "Prefer firewall tools"
 msgstr "首选防火墙工具"
 
 msgid "IPv6 TProxy"
-msgstr "IPv6 透明代理(TProxy)"
+msgstr "IPv6 透明代理"
 
 msgid "Status info"
 msgstr "状态信息"
@@ -1506,9 +1506,6 @@ msgstr "大图标"
 
 msgid "Show node check"
 msgstr "显示节点检测"
-
-msgid "Show Show IP111"
-msgstr "显示 IP111"
 
 msgid "Destination protocol"
 msgstr "目标协议"
@@ -1547,7 +1544,7 @@ msgid "Accept LAN Access"
 msgstr "接受局域网访问"
 
 msgid "When selected, it can accessed lan , this will not be safe!"
-msgstr "当勾选时，可以直接访问局域网，这将不安全！（非特殊情况不建议开启）"
+msgstr "当勾选时，可以直接访问局域网，这将不安全！"
 
 msgid "Enable Remote"
 msgstr "启用转发"
@@ -1763,13 +1760,13 @@ msgid "Protocol parameter. Enable length block encryption."
 msgstr "协议参数。启用长度块加密。"
 
 msgid "TLS Chain Fingerprint (SHA256)"
-msgstr "TLS 证书链指纹（SHA256）"
+msgstr "TLS 证书链指纹"
 
 msgid "Once set, connects only when the server’s chain fingerprint matches."
 msgstr "设置后，仅在服务器证书链指纹匹配时连接。"
 
 msgid "TLS Certificate Name (CertName)"
-msgstr "TLS 证书名称（CertName）"
+msgstr "TLS 证书名称"
 
 msgid "TLS is used to verify the leaf certificate name."
 msgstr "TLS 用于验证 leaf 证书的 name。"
