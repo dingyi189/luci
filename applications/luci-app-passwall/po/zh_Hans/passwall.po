@@ -895,12 +895,6 @@ msgstr "健康检查节点间隔时间"
 msgid "When the URL test is used, the load balancing node will be converted into a Socks node. when node list set customizing, must be a Socks node, otherwise the health check will be invalid."
 msgstr "当使用 URL 测试时，负载均衡节点将转换成 Socks 节点。下面的节点列表自定义时必须为 Socks 节点，否则健康检查将无效。"
 
-msgid "Add a node, Export Of Multi WAN Only support Multi Wan. Load specific gravity range 1-256. Multiple primary servers can be load balanced, standby will only be enabled when the primary server is offline! Multiple groups can be set, Haproxy port same one for each group."
-msgstr "添加节点，指定出口功能是为多 WAN 用户准备的。负载比重范围 1-256。多个主服务器可以负载均衡，备用只有在主服务器离线时才会启用！可以设置多个组，负载均衡端口相同则为一组。"
-
-msgid "Note that the node configuration parameters for load balancing must be consistent when use TCP health check type, otherwise it cannot be used normally!"
-msgstr "注意，当使用 TCP 健康检查时负载均衡的节点配置参数必须一致，否则无法正常使用！"
-
 msgid "Node"
 msgstr "节点"
 
