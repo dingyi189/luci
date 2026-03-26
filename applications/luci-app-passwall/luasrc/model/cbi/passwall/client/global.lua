@@ -653,9 +653,6 @@ o.rmempty = false
 
 o = s:taboption("log", DummyValue, "_log_tips", "　")
 o.rawhtml = true
-o.cfgvalue = function(t, n)
-	return string.format('<font color="red">%s</font>', translate("It is recommended to disable logging during regular use to reduce system overhead."))
-end
 
 s:tab("faq", "FAQ")
 o = s:taboption("faq", DummyValue, "")
