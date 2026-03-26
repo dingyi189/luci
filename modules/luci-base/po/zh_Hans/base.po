@@ -3965,10 +3965,7 @@ msgid ""
 "Enable automatic redirection of <abbr title=\"Hypertext Transfer "
 "Protocol\">HTTP</abbr> requests to <abbr title=\"Hypertext Transfer Protocol "
 "Secure\">HTTPS</abbr> port."
-msgstr ""
-"自动将 <abbr title=\"Hypertext Transfer Protocol（超文本传输协议）\">HTTP</"
-"abbr> 请求重定向至 <abbr title=\"Hypertext Transfer Protocol Secure（超文本传"
-"输安全协议）\">HTTPS</abbr> 。"
+msgstr "自动将 http 请求重定向至 https"
 
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:1243
 msgid ""
