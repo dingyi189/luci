@@ -1132,9 +1132,6 @@ msgstr "订阅网址"
 msgid "Subscribe URL Access Method"
 msgstr "订阅网址访问方式"
 
-msgid "When adding a new subscription, please save and apply before manually subscribing. If you only change the subscription URL, you can subscribe manually, and the system will save it automatically."
-msgstr "新增订阅请先保存并应用后再手动订阅；如仅修改订阅地址，可直接手动订阅，系统将自动保存。"
-
 msgid "Please save and apply before manually subscribing."
 msgstr "请先保存并应用后再手动订阅。"
 
