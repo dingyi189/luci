@@ -173,7 +173,7 @@ msgid "Format must be:"
 msgstr "格式必须为："
 
 msgid "Request protocol"
-msgstr "请求协议"
+msgstr "协议"
 
 msgid "Remote DNS DoH"
 msgstr "远程 DNS DoH"
