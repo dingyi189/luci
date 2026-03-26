@@ -11807,7 +11807,7 @@ msgstr "系统负载"
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/system.js:164
 msgid "System log buffer size"
-msgstr "系统日志缓冲区大小"
+msgstr "系统日志缓冲区: kiB"
 
 #: themes/luci-theme-bootstrap/ucode/template/themes/bootstrap/header.ut:69
 #: themes/luci-theme-material/ucode/template/themes/material/header.ut:80
