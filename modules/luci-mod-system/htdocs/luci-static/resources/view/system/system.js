@@ -161,7 +161,7 @@ return view.extend({
 		 * Logging
 		 */
 
-		o = s.taboption('logging', form.Value, 'log_size', _('System log buffer size'), "kiB");
+		o = s.taboption('logging', form.Value, 'log_size', _('System log buffer size'));
 		o.optional    = true;
 		o.placeholder = 128;
 		o.datatype    = 'uinteger';
