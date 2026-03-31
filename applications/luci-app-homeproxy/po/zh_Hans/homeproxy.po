@@ -2286,12 +2286,6 @@ msgstr ""
 "指定发送 PING 帧后，在指定的超时时间（单位：秒）内必须接收到响应。<br/>如果在"
 "指定的超时时间内没有收到 PING 帧的响应，则连接将关闭。"
 
-#: htdocs/luci-static/resources/view/homeproxy/client.js:265
-msgid ""
-"Specify target ports to be proxied. Multiple ports must be separated by "
-"commas."
-msgstr "指定需要被代理的目标端口。多个端口必须用逗号隔开。"
-
 #: htdocs/luci-static/resources/view/homeproxy/client.js:913
 msgid "Store RDRC"
 msgstr "存储 RDRC"
