@@ -258,8 +258,7 @@ return view.extend({
 				this.map.save(null, true);
 		}
 
-		o = s.taboption('routing', form.Value, 'routing_port', _('Routing ports'),
-			_('Specify target ports to be proxied. Multiple ports must be separated by commas.'));
+		o = s.taboption('routing', form.Value, 'routing_port', _('Routing ports'));
 		o.value('', _('All ports'));
 		o.value('common', _('Common ports only (bypass P2P traffic)'));
 		o.validate = function(section_id, value) {
