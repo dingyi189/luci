@@ -2338,11 +2338,6 @@ msgstr ""
 "支持 Hysteria、Shadowsocks、Trojan、v2rayN（VMess）和 XTLS（VLESS）在线配置交"
 "付标准。"
 
-#: htdocs/luci-static/resources/view/homeproxy/client.js:180
-msgid ""
-"Support UDP, TCP, DoH, DoQ, DoT. TCP protocol will be used if not specified."
-msgstr "支持 UDP、TCP、DoH、DoQ、DoT。如未指定则使用 TCP 协议。"
-
 #: htdocs/luci-static/resources/view/homeproxy/client.js:313
 msgid "System"
 msgstr "系统"
