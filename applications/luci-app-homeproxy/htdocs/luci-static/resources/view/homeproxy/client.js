@@ -98,8 +98,7 @@ return view.extend({
 					String.format('[%s]', nodeaddr) : nodeaddr) + ':' + nodeport));
 		});
 
-		m = new form.Map('homeproxy', _('HomeProxy'),
-			_('The modern ImmortalWrt proxy platform for ARM64/AMD64.'));
+		m = new form.Map('homeproxy', _('HomeProxy'));
 
 		s = m.section(form.TypedSection);
 		s.render = function () {
