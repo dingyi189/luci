@@ -1407,7 +1407,7 @@ return view.extend({
 
 		so = ss.taboption('interface', widgets.DeviceSelect, 'bind_interface', _('Bind interface'),
 			_('Bind outbound traffic to specific interface. Leave empty to auto detect.'));
-		so.multiple = false;
+		so.multiple = true;
 		so.noaliases = true;
 		/* Interface control end */
 
