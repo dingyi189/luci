@@ -175,8 +175,7 @@ return view.extend({
 		o.placeholder = '50';
 		o.depends('main_udp_node', 'urltest');
 
-		o = s.taboption('routing', form.Value, 'dns_server', _('DNS server'),
-			_('Support UDP, TCP, DoH, DoQ, DoT. TCP protocol will be used if not specified.'));
+		o = s.taboption('routing', form.Value, 'dns_server', _('DNS server'));
 		o.value('wan', _('WAN DNS (read from interface)'));
 		o.value('1.1.1.1', _('CloudFlare Public DNS (1.1.1.1)'));
 		o.value('208.67.222.222', _('Cisco Public DNS (208.67.222.222)'));
