@@ -212,8 +212,7 @@ return view.extend({
 			return true;
 		}
 
-		o = s.taboption('routing', form.Value, 'china_dns_server', _('China DNS server'),
-			_('The dns server for resolving China domains. Support UDP, TCP, DoH, DoQ, DoT.'));
+		o = s.taboption('routing', form.Value, 'china_dns_server', _('China DNS server'));
 		o.value('wan', _('WAN DNS (read from interface)'));
 		o.value('223.5.5.5', _('Aliyun Public DNS (223.5.5.5)'));
 		o.value('210.2.4.8', _('CNNIC Public DNS (210.2.4.8)'));
